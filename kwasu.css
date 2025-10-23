@@ -186,8 +186,9 @@ em {
     }
     input:hover {
         border-style: thin;
+        border-radius: 10px;
+        border: 3px solid rgb(110, 205, 237);
     }
-
     hr {
         position: relative;
         bottom: -7%;
